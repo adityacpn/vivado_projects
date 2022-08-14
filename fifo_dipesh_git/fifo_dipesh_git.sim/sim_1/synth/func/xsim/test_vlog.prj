@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"test_func_synth.v" \
+
+sv xil_defaultlib  \
+"../../../../../fifo_dipesh_git.srcs/sim_1/new/fifo_tb.sv" \
+
+# Do not sort compile order
+nosort
