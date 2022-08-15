@@ -20,13 +20,13 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 class first;
-    bit [7:0] data;
+    logic [7:0] data;
 endclass
 
 
 module tb();
     first f1;
-    bit [7:0] datarcvd;
+    logic [7:0] datarcvd;
     
     initial begin
         f1 = new();
