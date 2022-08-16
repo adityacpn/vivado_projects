@@ -20,12 +20,14 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 class first;
-    logic [7:0] data;
+    //bit [7:0] data;   // using 2 state data type i.e. bit. other 2 state data types are ---> byte, shortint, int, longint.
+    logic [7:0] data;   //using 4 satte data type i.e. logic. other 4 state data types are ---> reg, integer.
 endclass
 
 
 module tb();
     first f1;
+    
     logic [7:0] datarcvd;
     
     initial begin
