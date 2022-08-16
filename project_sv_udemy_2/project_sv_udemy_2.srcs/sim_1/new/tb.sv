@@ -27,7 +27,6 @@ endclass
 
 module tb();
     first f1;
-    
     logic [7:0] datarcvd;
     
     initial begin
