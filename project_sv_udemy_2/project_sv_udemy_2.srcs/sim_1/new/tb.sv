@@ -27,6 +27,7 @@ endclass
 
 module tb();
     first f1;
+    //bit [7:0] datarcvd;   // using 2 state data type i.e. bit. other 2 state data types are ---> byte, shortint, int, longint.
     logic [7:0] datarcvd;
     
     initial begin
