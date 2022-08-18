@@ -1,8 +1,8 @@
 # vivado_projects
 
-##Notes:
+## Notes:
 
-##Git auto setup:
+## Git auto setup:
 
 ### git password caching
 git config credential.helper store
