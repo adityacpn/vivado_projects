@@ -1,0 +1,21 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: /home/aditya/xilinx_vivado_ml/Vivado/2022.1/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_Risc_16_bit_behav xil_defaultlib.test_Risc_16_bit xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Instruction_Memory
+Compiling module xil_defaultlib.GPRs
+Compiling module xil_defaultlib.alu_control
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.Data_Memory
+Compiling module xil_defaultlib.Datapath_Unit
+Compiling module xil_defaultlib.Control_Unit
+Compiling module xil_defaultlib.Risc_16_bit
+Compiling module xil_defaultlib.test_Risc_16_bit
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_Risc_16_bit_behav

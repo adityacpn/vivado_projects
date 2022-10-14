@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+WARNING: File ./test/test.prog referenced on /home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/instruction_memory.v at line 15 cannot be opened for reading. Please ensure that this file is available in the current working directory.
+WARNING: File ./test/test.data referenced on /home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/data_memory.v at line 24 cannot be opened for reading. Please ensure that this file is available in the current working directory.
+WARNING: file ./test/50001111_50001212.o could not be opened
+$finish called at time : 160 ns : File "/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sim_1/new/tb_16bit.v" Line 21

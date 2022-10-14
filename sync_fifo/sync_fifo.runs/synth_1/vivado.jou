@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Oct 10 18:38:20 2022
+# Process ID: 133354
+# Current directory: /home/aditya/vivado_projects/sync_fifo/sync_fifo.runs/synth_1
+# Command line: vivado -log FIFO_v.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FIFO_v.tcl
+# Log file: /home/aditya/vivado_projects/sync_fifo/sync_fifo.runs/synth_1/FIFO_v.vds
+# Journal file: /home/aditya/vivado_projects/sync_fifo/sync_fifo.runs/synth_1/vivado.jou
+# Running On: aditya-Vostro-3559, OS: Linux, CPU Frequency: 2400.000 MHz, CPU Physical cores: 2, Host memory: 12437 MB
+#-----------------------------------------------------------
+source FIFO_v.tcl -notrace

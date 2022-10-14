@@ -1,0 +1,16 @@
+0.7
+2020.2
+Apr 18 2022
+15:53:03
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sim_1/new/Parameter.v,1662919563,verilog,,,,,,,,,,,,
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sim_1/new/tb_16bit.v,1662919541,verilog,,,/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sim_1/new/Parameter.v,test_Risc_16_bit,,,,,,,,
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/16_bit_RISC.v,1662919420,verilog,,/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/ALU_Unit.v,,Risc_16_bit,,,,,,,,
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/ALU_Unit.v,1662919611,verilog,,/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/ALU_control_unit.v,,ALU,,,,,,,,
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/ALU_control_unit.v,1662919631,verilog,,/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/ControlUnit_RISCpr.v,,alu_control,,,,,,,,
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/ControlUnit_RISCpr.v,1662919669,verilog,,/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/DataPath_code.v,,Control_Unit,,,,,,,,
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/DataPath_code.v,1662919705,verilog,,/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/data_memory.v,,Datapath_Unit,,,,,,,,
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/Parameter.v,1662919563,verilog,,,,,,,,,,,,
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/data_memory.v,1662919742,verilog,,/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/instruction_memory.v,/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/Parameter.v,Data_Memory,,,,,,,,
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/instruction_memory.v,1662919769,verilog,,/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/register_file.v,/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/Parameter.v,Instruction_Memory,,,,,,,,
+/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sources_1/new/register_file.v,1662919785,verilog,,/home/aditya/vivado_projects/RISC-V_16bit/RISC-V_16bit.srcs/sim_1/new/tb_16bit.v,,GPRs,,,,,,,,

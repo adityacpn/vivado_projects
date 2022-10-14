@@ -1,0 +1,34 @@
+Time resolution is 1 ps
+Checking rdata: expected wdata = 9c, rdata = 9c
+Checking rdata: expected wdata = 3d, rdata = 3d
+Checking rdata: expected wdata = 44, rdata = 44
+Checking rdata: expected wdata = 41, rdata = 41
+Checking rdata: expected wdata = a7, rdata = a7
+Checking rdata: expected wdata = f9, rdata = f9
+Checking rdata: expected wdata = 01, rdata = 01
+Checking rdata: expected wdata = 44, rdata = 44
+Checking rdata: expected wdata = 36, rdata = 36
+Checking rdata: expected wdata = 45, rdata = 45
+Checking rdata: expected wdata = 85, rdata = 85
+Checking rdata: expected wdata = de, rdata = de
+Checking rdata: expected wdata = 3f, rdata = 3f
+Checking rdata: expected wdata = 86, rdata = 86
+Checking rdata: expected wdata = 22, rdata = 22
+Checking rdata: expected wdata = 75, rdata = 75
+Checking rdata: expected wdata = cc, rdata = cc
+Checking rdata: expected wdata = a7, rdata = a7
+Checking rdata: expected wdata = 53, rdata = 53
+Checking rdata: expected wdata = 0b, rdata = 0b
+Checking rdata: expected wdata = 2e, rdata = 2e
+Checking rdata: expected wdata = 75, rdata = 75
+Checking rdata: expected wdata = 80, rdata = 80
+Checking rdata: expected wdata = fa, rdata = fa
+Checking rdata: expected wdata = 1d, rdata = 1d
+Checking rdata: expected wdata = d4, rdata = d4
+Checking rdata: expected wdata = 05, rdata = 05
+Checking rdata: expected wdata = 4b, rdata = 4b
+Checking rdata: expected wdata = 49, rdata = 49
+Checking rdata: expected wdata = 85, rdata = 85
+Checking rdata: expected wdata = 45, rdata = 45
+Checking rdata: expected wdata = 66, rdata = 66
+$finish called at time : 4225 ns : File "/home/aditya/vivado_projects/FIFO_sharma/FIFO_sharma.srcs/sim_1/new/tb.sv" Line 72

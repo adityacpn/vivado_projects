@@ -1,0 +1,260 @@
+$date
+   Mon Oct 10 15:06:50 2022
+$end
+$version
+  2022.1
+$end
+$timescale
+  1ps
+$end
+$scope module tb $end
+$var reg 1 ! clk $end
+$var reg 1 " rst $end
+$var reg 1 # wr_en $end
+$var reg 1 $ rd_en $end
+$var reg 8 % wdata [7:0] $end
+$var wire 8 & rdata [7:0] $end
+$var reg 200 ' testcase [199:0] $end
+$var integer 32 ( i [31:0] $end
+$var integer 32 ) j [31:0] $end
+$var wire 1 * full $end
+$var wire 1 + empty $end
+$var wire 1 , error $end
+$scope module dut $end
+$var wire 1 - clk $end
+$var wire 1 . rst $end
+$var wire 1 / wr_en $end
+$var wire 1 0 rd_en $end
+$var wire 8 1 wdata [7:0] $end
+$var reg 8 2 rdata [7:0] $end
+$var reg 4 3 wr_ptr [3:0] $end
+$var reg 4 4 rd_ptr [3:0] $end
+$var reg 1 5 w_f $end
+$var reg 1 6 r_f $end
+$var reg 1 7 full $end
+$var reg 1 8 empty $end
+$var reg 1 9 error $end
+$scope begin Block24_1 $end
+$var integer 32 : i [31:0] $end
+$upscope $end
+$upscope $end
+$scope task write $end
+$var integer 32 ; n [31:0] $end
+$upscope $end
+$scope task read $end
+$var integer 32 < n [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+1"
+0#
+0$
+bx %
+b0 &
+bx '
+bx (
+bx )
+0*
+0+
+0,
+0-
+1.
+0/
+00
+bx 1
+b0 2
+b0 3
+b0 4
+05
+06
+07
+08
+09
+b1111 :
+bx ;
+bx <
+$end
+#4000
+0"
+0.
+#5000
+1!
+1+
+1-
+b0 3
+b0 4
+18
+#10000
+0!
+0-
+#15000
+1!
+1-
+b0 3
+b0 4
+18
+#20000
+0!
+0-
+#25000
+1!
+1-
+b0 3
+b0 4
+18
+#30000
+0!
+0-
+#35000
+1!
+1-
+b0 3
+b0 4
+18
+#40000
+0!
+0-
+#45000
+1!
+1-
+b0 3
+b0 4
+18
+#50000
+0!
+0-
+#55000
+1!
+1-
+b0 3
+b0 4
+18
+#60000
+0!
+0-
+#65000
+1!
+1-
+b0 3
+b0 4
+18
+#70000
+0!
+0-
+#75000
+1!
+1-
+b0 3
+b0 4
+18
+#80000
+0!
+0-
+#85000
+1!
+1-
+b0 3
+b0 4
+18
+#90000
+0!
+0-
+#95000
+1!
+1-
+b0 3
+b0 4
+18
+#100000
+0!
+0-
+#105000
+1!
+1-
+b0 3
+b0 4
+18
+#110000
+0!
+0-
+#115000
+1!
+1-
+b0 3
+b0 4
+18
+#120000
+0!
+0-
+#125000
+1!
+1-
+b0 3
+b0 4
+18
+#130000
+0!
+0-
+#135000
+1!
+1-
+b0 3
+b0 4
+18
+#140000
+0!
+0-
+#145000
+1!
+1-
+b0 3
+b0 4
+18
+#150000
+0!
+0-
+#155000
+1!
+1-
+b0 3
+b0 4
+18
+#160000
+0!
+0-
+#165000
+1!
+1-
+b0 3
+b0 4
+18
+#170000
+0!
+0-
+#175000
+1!
+1-
+b0 3
+b0 4
+18
+#180000
+0!
+0-
+#185000
+1!
+1-
+b0 3
+b0 4
+18
+#190000
+0!
+0-
+#195000
+1!
+1-
+b0 3
+b0 4
+18

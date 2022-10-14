@@ -1,0 +1,6 @@
+0.7
+2020.2
+Apr 18 2022
+15:53:03
+/home/aditya/vivado_projects/FIFO_sharma/FIFO_sharma.sim/sim_1/synth/func/xsim/async_fifo1_tb_func_synth.v,1663138773,verilog,,,,async_fifo1;fifomem;glbl;rptr_empty;sync_r2w;sync_w2r;wptr_full,,uvm,,,,,,
+/home/aditya/vivado_projects/FIFO_sharma/FIFO_sharma.srcs/sim_1/new/tb.sv,1663136462,systemVerilog,,,,async_fifo1_tb,,uvm,,,,,,

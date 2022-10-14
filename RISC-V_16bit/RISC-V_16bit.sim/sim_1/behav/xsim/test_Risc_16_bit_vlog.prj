@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../RISC-V_16bit.srcs/sources_1/new/16_bit_RISC.v" \
+"../../../../RISC-V_16bit.srcs/sources_1/new/ALU_Unit.v" \
+"../../../../RISC-V_16bit.srcs/sources_1/new/ALU_control_unit.v" \
+"../../../../RISC-V_16bit.srcs/sources_1/new/ControlUnit_RISCpr.v" \
+"../../../../RISC-V_16bit.srcs/sources_1/new/DataPath_code.v" \
+"../../../../RISC-V_16bit.srcs/sources_1/new/data_memory.v" \
+"../../../../RISC-V_16bit.srcs/sources_1/new/instruction_memory.v" \
+"../../../../RISC-V_16bit.srcs/sources_1/new/register_file.v" \
+"../../../../RISC-V_16bit.srcs/sim_1/new/tb_16bit.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

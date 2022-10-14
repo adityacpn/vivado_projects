@@ -1,0 +1,12 @@
+
+{ 
+    crc :  16802813017721273456  , 
+    ccp_crc :  0  , 
+    cmdline : " --incr --debug typical --relax --mt 8 -L xil_defaultlib -L uvm -L unisims_ver -L secureip --snapshot async_fifo1_tb_func_synth xil_defaultlib.async_fifo1_tb xil_defaultlib.glbl" , 
+    buildDate : "Apr 18 2022" , 
+    buildTime : "15:53:03" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/async_fifo1_tb_func_synth/xsimk\"   \"xsim.dir/async_fifo1_tb_func_synth/obj/xsim_0.lnx64.o\" \"xsim.dir/async_fifo1_tb_func_synth/obj/xsim_1.lnx64.o\" -L\"/home/aditya/xilinx_vivado_ml/Vivado/2022.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
