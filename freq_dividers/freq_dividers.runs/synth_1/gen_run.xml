@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1665756554">
+<GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1665823178" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/dff.dcp">
   <File Type="VDS-TIMINGSUMMARY" Name="dff_timing_summary_synth.rpt"/>
   <File Type="RDS-DCP" Name="dff.dcp"/>
   <File Type="RDS-UTIL-PB" Name="dff_utilization_synth.pb"/>
   <File Type="RDS-UTIL" Name="dff_utilization_synth.rpt"/>
+  <File Type="RDS-PROPCONSTRS" Name="dff_drc_synth.rpt"/>
+  <File Type="RDS-RDS" Name="dff.vds"/>
+  <File Type="REPORTS-TCL" Name="dff_reports.tcl"/>
   <File Type="VDS-TIMING-PB" Name="dff_timing_summary_synth.pb"/>
   <File Type="PA-TCL" Name="dff.tcl"/>
-  <File Type="REPORTS-TCL" Name="dff_reports.tcl"/>
-  <File Type="RDS-RDS" Name="dff.vds"/>
-  <File Type="RDS-PROPCONSTRS" Name="dff_drc_synth.rpt"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/top_module.sv">
@@ -32,6 +32,14 @@
   </FileSet>
   <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
     <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/dff.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
     <Config>
       <Option Name="TopAutoSet" Val="TRUE"/>
     </Config>

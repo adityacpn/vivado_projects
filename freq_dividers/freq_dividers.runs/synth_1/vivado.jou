@@ -2,8 +2,8 @@
 # Vivado v2022.1 (64-bit)
 # SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
 # IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
-# Start of session at: Fri Oct 14 19:39:18 2022
-# Process ID: 463527
+# Start of session at: Sat Oct 15 14:09:42 2022
+# Process ID: 563807
 # Current directory: /home/aditya/vivado_projects/freq_dividers/freq_dividers.runs/synth_1
 # Command line: vivado -log dff.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dff.tcl
 # Log file: /home/aditya/vivado_projects/freq_dividers/freq_dividers.runs/synth_1/dff.vds
